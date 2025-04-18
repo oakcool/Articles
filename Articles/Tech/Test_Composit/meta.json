@@ -1,3 +1,18 @@
 {    
-    "date":"2019-08-01T00:00:00-07:00"
+    "date":"2019-08-01T00:00:00-07:00",
+    "recipe": {
+
+        "ingredients" : [
+        {
+            "Name": "Salt",
+            "Quantity": "Pintch",
+            "Url": "https://www.amazon.com"
+        },
+        {
+            "Name": "Pepper",
+            "Quantity": "Pintch",
+            "Url": "https://www.amazon.com"
+        }
+    ]
+    }
 }
