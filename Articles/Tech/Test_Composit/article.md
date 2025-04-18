@@ -67,7 +67,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Integer nec odio.** P
 ```python
 def lorem_ipsum():
     return "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+```
 
+---
 
 ## Table
 
@@ -77,5 +79,7 @@ def lorem_ipsum():
 | Jane Smith   | 34  | Graphic Designer |
 | Sam Johnson  | 22  | Web Developer   |
 
+---
+
 ## Image
-![Placeholder Image](https://www.w3.org/MarkUp/Test/PNGtest/img/w3c_home.png)
+![Placeholder Image](https://archive.org/download/placeholder-image/placeholder-image.jpg)
