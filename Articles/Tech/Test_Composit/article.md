@@ -67,3 +67,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Integer nec odio.** P
 ```python
 def lorem_ipsum():
     return "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+
+## Table
+
+| Name         | Age | Occupation      |
+|--------------|-----|-----------------|
+| John Doe     | 28  | Software Engineer|
+| Jane Smith   | 34  | Graphic Designer |
+| Sam Johnson  | 22  | Web Developer   |
+
+## Image
+![Placeholder Image](https://www.w3.org/MarkUp/Test/PNGtest/img/w3c_home.png)
