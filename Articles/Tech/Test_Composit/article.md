@@ -83,3 +83,8 @@ def lorem_ipsum():
 
 ## Image
 ![Placeholder Image](https://archive.org/download/placeholder-image/placeholder-image.jpg)
+
+
+## Text and Image
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet [Brisket](./images/brisket.jpg).
